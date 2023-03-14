@@ -1,4 +1,4 @@
-# chat_bubble
+# CodingTest
 
 A new Flutter project.
 
